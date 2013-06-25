@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="/Users/jburgess/git/talend_dojo_for_pos/workspace/.Java/lib/log4j-1.2.15.jar"/>
+	<classpathentry kind="lib" path="/Users/jburgess/git/talend_dojo_for_pos/workspace/.Java/lib/talendcsv.jar"/>
+	<classpathentry kind="lib" path="/Users/jburgess/git/talend_dojo_for_pos/workspace/.Java/lib/poi-ooxml-schemas-3.8-20120326.jar"/>
+	<classpathentry kind="lib" path="/Users/jburgess/git/talend_dojo_for_pos/workspace/.Java/lib/poi-ooxml-3.8-20120326.jar"/>
+	<classpathentry kind="lib" path="/Users/jburgess/git/talend_dojo_for_pos/workspace/.Java/lib/jxl.jar"/>
+	<classpathentry kind="lib" path="/Users/jburgess/git/talend_dojo_for_pos/workspace/.Java/lib/postgresql-8.3-603.jdbc3.jar"/>
+	<classpathentry kind="lib" path="/Users/jburgess/git/talend_dojo_for_pos/workspace/.Java/lib/poi-scratchpad-3.8-20120326.jar"/>
+	<classpathentry kind="lib" path="/Users/jburgess/git/talend_dojo_for_pos/workspace/.Java/lib/xmlbeans-2.3.0.jar"/>
+	<classpathentry kind="lib" path="/Users/jburgess/git/talend_dojo_for_pos/workspace/.Java/lib/dom4j-1.6.1.jar"/>
+	<classpathentry kind="lib" path="/Users/jburgess/git/talend_dojo_for_pos/workspace/.Java/lib/poi-3.8-20120326.jar"/>
+	<classpathentry kind="lib" path="/Users/jburgess/git/talend_dojo_for_pos/workspace/.Java/lib/geronimo-stax-api_1.0_spec-1.0.jar"/>
+	<classpathentry kind="output" path="classes"/>
+</classpath>

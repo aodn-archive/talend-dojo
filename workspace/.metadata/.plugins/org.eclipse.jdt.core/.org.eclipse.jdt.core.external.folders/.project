@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>.org.eclipse.jdt.core.external.folders</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+	</buildSpec>
+	<natures>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>.link0</name>
+			<type>2</type>
+			<location>/Applications/TOS_DI-r90320-V5.2.0M4/plugins/org.talend.designer.esb.components.ws.consumer_5.2.0.M4_r90320</location>
+		</link>
+		<link>
+			<name>.link1</name>
+			<type>2</type>
+			<location>/Applications/TOS_DI-r90320-V5.2.0M4/plugins/org.talend.designer.codegen_5.2.0.M4_r90320</location>
+		</link>
+	</linkedResources>
+</projectDescription>

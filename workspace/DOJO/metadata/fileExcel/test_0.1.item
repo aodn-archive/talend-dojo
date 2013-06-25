@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:TalendMetadata="http://www.talend.org/metadata/connection/2010" xmlns:orgomg.cwm.resource.record="http:///orgomg/cwm/resource/record.ecore">
+  <TalendMetadata:FileExcelConnection xmi:id="_vrg6IN0hEeKRU6UTuTC55g" name="repository.metadataFileExcel" dataPackage="_vrqEEN0hEeKRU6UTuTC55g" Server="Localhost 127.0.0.1" FilePath="/Users/jburgess/Dropbox/IMOS/talend_dojo_for_pos/Controlled_vocabulary_database_v3.xlsx" Encoding="UTF-8" UseHeader="true" HeaderValue="1" FirstLineCaption="true" SheetName="Vocabulary_Register" firstColumn="1" thousandSeparator="','" decimalSeparator="'.'" sheetList="Vocabulary_Register:w&#xA;">
+    <sheetColumns>A</sheetColumns>
+    <sheetColumns>B</sheetColumns>
+    <sheetColumns>C</sheetColumns>
+    <sheetColumns>D</sheetColumns>
+    <sheetColumns>E</sheetColumns>
+    <sheetColumns>F</sheetColumns>
+    <sheetColumns>G</sheetColumns>
+    <sheetColumns>H</sheetColumns>
+    <sheetColumns>I</sheetColumns>
+  </TalendMetadata:FileExcelConnection>
+  <orgomg.cwm.resource.record:RecordFile xmi:id="_vrqEEN0hEeKRU6UTuTC55g" name="repository.metadataFileExcel" dataManager="_vrg6IN0hEeKRU6UTuTC55g">
+    <ownedElement xsi:type="TalendMetadata:MetadataTable" xmi:id="_vrqrIN0hEeKRU6UTuTC55g" id="_GG8a0N0hEeKRU6UTuTC55g" label="metadata">
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_vrqrId0hEeKRU6UTuTC55g" label="Register_Name" length="49" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_vrqrIt0hEeKRU6UTuTC55g" label="Register_Content_summary" length="197" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_vrqrI90hEeKRU6UTuTC55g" label="Register_Language_Name" length="7" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_vrqrJN0hEeKRU6UTuTC55g" label="Register_Language_Code" length="3" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_vrqrJd0hEeKRU6UTuTC55g" label="Register_Language_Country" length="2" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_vrqrJt0hEeKRU6UTuTC55g" label="Register_Language_Encoding" length="4" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_vrqrJ90hEeKRU6UTuTC55g" label="Register_Version" length="3" precision="2" talendType="id_Float" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_vrqrKN0hEeKRU6UTuTC55g" label="Register_Date" length="28" talendType="id_Date" pattern="&quot;dd/MM/yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_vrqrKd0hEeKRU6UTuTC55g" label="Date_Of_Last_Change" length="28" talendType="id_Date" pattern="&quot;dd/MM/yyyy&quot;"/>
+    </ownedElement>
+  </orgomg.cwm.resource.record:RecordFile>
+</xmi:XMI>

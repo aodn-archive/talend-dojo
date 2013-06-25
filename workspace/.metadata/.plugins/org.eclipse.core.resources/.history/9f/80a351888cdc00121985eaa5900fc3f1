@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
+  <TalendProperties:Project xmi:id="_JQYmUdyEEeKfWJAc7b1fOw" label="dojo" description="" language="java" technicalLabel="DOJO" local="true" author="_JSL9INyEEeKfWJAc7b1fOw"/>
+  <TalendProperties:User xmi:id="_JSL9INyEEeKfWJAc7b1fOw" login="test@talend.com" password="D41D8CD98F00B204E9800998ECF8427E"/>
+  <TalendProperties:ExchangeUser xmi:id="_JSMkMNyEEeKfWJAc7b1fOw" username="" login="" password=""/>
+</xmi:XMI>
